@@ -9,3 +9,5 @@ Link para a [folha de macetes do Markdown.](https://github.com/adam-p/markdown-h
 
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
+
+[Pistola](https://gist.github.com/rxaviers/7360908) :rage3: :rage3: :rage3: :rage3: :rage3: :rage3: :rage3: :rage3: :rage3: :rage3::rage3: :rage3: :rage3: 
